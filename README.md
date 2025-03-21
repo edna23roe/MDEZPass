@@ -31,11 +31,4 @@ With an intuitive user interface, real-time tracking, and easy-to-read receipts,
 **Website**: [e-zpassmd](https://www-ezpassmd.com)
 
 **Author Bio**:  
-Your A/C Name is a passionate full-stack developer with over 5 years of experience in web development. They have mastered various technologies like React, Node.js, JavaScript, and more. Known for their problem-solving skills, they have contributed to numerous open-source projects and are committed to helping others by sharing knowledge and creating user-friendly tools like e-zpassmd.
-
-## Getting Started
-
-### Clone the Repository:
-To get started, clone the repository to your local machine using the following command:
-```bash
-git clone https://github.com/your-username/e-zpassmd.git
+Edna Roe is a passionate full-stack developer with over 5 years of experience in web development. They have mastered various technologies like React, Node.js, JavaScript, and more. Known for their problem-solving skills, they have contributed to numerous open-source projects and are committed to helping others by sharing knowledge and creating user-friendly tools like e-zpassmd.
